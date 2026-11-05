@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-economy-react-native",
+  "capabilityKey": "liberusoftware/module-browser-game-economy",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-browser-game-economy-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/browser-game/nextjs/economy.md",
+  "presentationPlan": "projects/browser-game/react-native/economy.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
